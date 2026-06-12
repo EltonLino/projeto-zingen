@@ -21,6 +21,7 @@
         & img.desktop-only {
             position: absolute;
             max-width: 16rem;
+            filter: drop-shadow(15px 15px 15px rgba(0, 0, 0, 0.521));
 
             bottom: 2rem;
             right: 2rem;
@@ -46,6 +47,7 @@
         & img.desktop-only {
             position: absolute;
             max-width: 16rem;
+            filter: drop-shadow(15px 15px 15px rgba(0, 0, 0, 0.521));
 
             bottom: 2rem;
             left: 2rem;
@@ -66,6 +68,7 @@
         & img.desktop-only {
             position: absolute;
             max-width: 16rem;
+            filter: drop-shadow(15px -15px 15px rgba(0, 0, 0, 0.521));
 
             top: 2rem;
             right: 2rem;
